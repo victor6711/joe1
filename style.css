@@ -1,0 +1,14 @@
+.button{
+    float: left;
+     border: 1px solid grey;
+    cursor: pointer;
+}
+.banner-btn{
+align-items: center;
+justify-content: center;
+}
+ .section{
+    align-items: center;
+     justify-content: center;
+    display: flex;
+} 
